@@ -41,14 +41,12 @@ streamlit run weather_app.py
 
 ## 🎵 Spotify Web App
 ### Features:
-
 - Artist Search: Find artists by name using Spotify's database
 - Top Tracks Display: Show most popular songs with popularity scores
 - Direct Links: Clickable links to Spotify tracks
 - Real-time Data: Live information from Spotify Web API
 
 ### Technologies:
-
 - Spotify Web API: Music data and authentication
 - OAuth 2.0: Client credentials flow for API access
 - Streamlit: Interactive web interface
@@ -61,14 +59,12 @@ streamlit run spotify_app.py
 
 ## 📊 Names by Decade App
 ### Features:
-
 - Historical Data: Name frequency trends across decades in Brazil
 - Data Visualization: Interactive charts showing name evolution
 - Government Data: Official statistics from IBGE
 - Dual Display: Both tabular and graphical data representation
 
 ### Technologies:
-
 - IBGE API: Brazilian government statistical data
 - Pandas: Data manipulation and analysis
 - Streamlit Charts: Built-in visualization components
@@ -95,7 +91,6 @@ streamlit run names_app.py
 
 ## 🔑 API Setup Guide
 ### OpenWeatherMap API (Weather App)
-
 - Visit [openweathermap.org]
 - Create a free account
 - Verify your email
@@ -103,7 +98,6 @@ streamlit run names_app.py
 - Add to .env file as CHAVE_API_OPENWEATHER
 
 ## Spotify Web API (Spotify App)
-
 - Go to [developer.spotify.com]
 - Create a new app in your dashboard
 - Copy Client ID and Client Secret
@@ -113,14 +107,13 @@ streamlit run names_app.py
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
-
 - **OpenWeatherMap** for providing comprehensive weather data
 - **Spotify** for their excellent Web API and developer resources
 - **IBGE** for open access to Brazilian demographic data
 - **Streamlit** team for the amazing web app framework
 - **Python** community for excellent libraries and tools
 
-# 🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologies Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
